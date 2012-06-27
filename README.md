@@ -22,5 +22,7 @@ ant devmode
 
 Important Notes
 ===
-Application is generated using gwt webCreate for speed reasons. Some boilerplate code maybe still there.
+* Application is generated using gwt webCreate for speed reasons. Some boilerplate code maybe still there.
+
+* (Reinventing the wheel).Implementation of the custom version of the Tree was considered as a part of challange. Of cource I know about javax.swing.tree TreeNode etc.
 
