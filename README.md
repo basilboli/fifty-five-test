@@ -7,13 +7,12 @@ custom tree (MyTreeNode.java) and gwt framework.
 
 Classes
 ===
-src / com / myapps / server
-MyTreeNode  - main tree structure
-Node - node used by MyTreeNode
-QuestionGenerator  - mock class for questions
 
-test / com / myapps / client
-TreeTest  - main test
+* MyTreeNode  - main tree structure
+* Node - node used by MyTreeNode
+* QuestionGenerator  - mock class for questions
+
+* TreeTest  - main test
 
 etc.
 
