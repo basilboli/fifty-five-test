@@ -1,7 +1,7 @@
 fifty-five-test
 ===============
 
-Little proof-of-concept with tree structures demaned by 55:
+Little proof-of-concept with tree structures demanded by 55:
 generating simple tree structure of questions using
 custom tree (MyTreeNode.java) and gwt framework.
 
@@ -22,7 +22,7 @@ ant devmode
 
 Important Notes
 ===
-* Application is generated using gwt webCreate for speed reasons. Some boilerplate code maybe still there.
+* Application is generated using gwt webCreate for speed reasons. Some boilerplate code may still be there.
 
 * (Reinventing the wheel).Implementation of the custom version of the Tree was considered as a part of challange. Of cource I know about javax.swing.tree TreeNode etc.
 
