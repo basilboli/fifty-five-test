@@ -1,0 +1,23 @@
+{
+  "type": "script",
+  "seleniumVersion": "2",
+  "formatVersion": 1,
+  "steps": [
+    {
+      "type": "get",
+      "url": "http://www.ouest-france.fr/"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "xpath",
+        "value": "//form[@class='search-form']/input"
+      },
+      "text": "iphone"
+    },
+    {
+      "type": "verifyTextPresent",
+      "text": "Météo"
+    }
+  ]
+}
